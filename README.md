@@ -2,4 +2,4 @@
 
 Webpage to compare imagick resize filters.
 
-You can see samples of it's results [here](http://urmaul.com/blog/imagick-filters-comparison/).
+You can see samples of it's results [here](http://imagick-filters-comparison.netlify.com/).
